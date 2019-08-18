@@ -1,7 +1,7 @@
 # jahir-
 Yes creats new one /made by Jahir & Ishani 
 15 August
-
+Smart-dastbin
 ec"# hello-jahir1" >> README.md
 git init
 git add README.md
