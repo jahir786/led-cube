@@ -15,7 +15,7 @@ Yes creats new one
 * 
 * z-axis:
 * Side view (layers): Pin allocation:
-* ----------- ---------------
+*
 * 0|16(A2)
 * 1| 17(A3)
 * 2| 18(A4)
