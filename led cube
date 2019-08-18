@@ -1,11 +1,11 @@
 # Made by Jahir & Ishani, 01 August
 Yes creats new one
-
+require 64 led,per layer 16 led
 * 
 * xy-plane:
 * x = vertical
 * y = horizontal
-* Top view (positions): Pin allocation:
+* Top view (columns ): Pin allocation:
 * | 0 1 2 3      0 1 2 3
 * --|--------  -|-------------------------------
 * 0| o o o o    0| 0  1    2        3
@@ -254,4 +254,5 @@ digitalWrite(z,LOW); // Set the desired LED layer pin to LOW
 void ledOFF(byte xy, byte z) {
 digitalWrite(xy,LOW); // Set the desired LED position pin to LOW
 digitalWrite(z,HIGH); // Set the desired LED layer pin to HIGH
-}
+} 
+*//Now you can upload && enjoy & learn,gain knowledge.
